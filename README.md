@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ugochukwu Orji
 - 👀 I’m interested in Data science, data analytics and machine learning
-- 🌱 I’m currently learning Data science, data analytics and machine learning
+- 👀 Check out my Kaggle profile @https://www.kaggle.com/orjiugochukwu or my Tanleau profile @https://public.tableau.com/app/profile/ugochukwu.orji for my most recent projects
 - 💞️ I’m looking to collaborate on data analytics and machine learning 
 - 📫 How to reach me via email: ugoorji12@gmail.com or via linkedin @ https://www.linkedin.com/in/orji-ugochukwu/
 
