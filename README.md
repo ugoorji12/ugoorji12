@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ugochukwu Orji. A PhD Researcher working on Energy Forecasting and Spatio-Temporal Graph Neural Networks.
-- 👀 I’m interested in Spatio-temporal models and Uncertainty Quantification methods for Energy Informatics projects.
-- 💞️ I’m looking to collaborate on data analytics and machine learning projects in the field of energy forecasting/analytics.
+- 👋 Hi, I’m Ugochukwu Orji. A PhD Researcher working on Application of AI for Energy Systems.
+- 👀 I’m interested in Spatio-temporal models and Uncertainty Quantification methods for Energy related projects.
+- 💞️ I’m looking to collaborate on grid- & uncertainty-aware models for Energy systems.
 
 
 <!---
